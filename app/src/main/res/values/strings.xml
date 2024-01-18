@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gif List</string>
+    <string name="request_failed_with_message">"Request was failed with message: %s"</string>
+    <string name="search">Search</string>
+    <string name="open_gif_list">Open Gif List</string>
+    <string name="open_search_list">Open Search List</string>
+</resources>
